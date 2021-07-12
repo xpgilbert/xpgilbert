@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @xpgilbert
 - 👀 I’m interested in Data Science to drive creative decisions with a socially-conscious impact
 - 🌱 I’m currently learning Applied Data Science from the Thayer School of Engineering at Dartmouth College
-- 💞️ I’m looking to collaborate on data challenges within the public policy, social science and creative media spheres
+- 💞️ I’m looking to collaborate on data challenges with a social impact.
 - 📫 Please reach out to me at xanderpgilbert@gmail.com
 
 <!---
